@@ -1,4 +1,4 @@
-module github.com/gin-contrib/sessions
+module github.com/aprilcoskun/sessions
 
 go 1.14
 

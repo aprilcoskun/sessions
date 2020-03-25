@@ -24,7 +24,7 @@ $ go get github.com/gin-contrib/sessions
 Import it in your code:
 
 ```go
-import "github.com/gin-contrib/sessions"
+import "github.com/aprilcoskun/sessions"
 ```
 
 ## Basic Examples
@@ -35,7 +35,7 @@ import "github.com/gin-contrib/sessions"
 package main
 
 import (
-	"github.com/gin-contrib/sessions"
+	"github.com/aprilcoskun/sessions"
 	"github.com/gin-contrib/sessions/cookie"
 	"github.com/gin-gonic/gin"
 )

@@ -3,8 +3,8 @@ package memstore
 import (
 	"testing"
 
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/tester"
+	"github.com/aprilcoskun/sessions"
+	"github.com/aprilcoskun/sessions/tester"
 )
 
 var newStore = func(_ *testing.T) sessions.Store {
